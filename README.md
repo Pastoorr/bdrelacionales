@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Alejandro Tizoc Beltran
+4AVP
